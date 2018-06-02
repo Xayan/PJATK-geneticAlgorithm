@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class Travel {
-    private List<City> travels = new ArrayList<>();
+    private List<City> travels = new ArrayList<City>();
     private TravelManager travelManager;
 
     private double fitness = 0;

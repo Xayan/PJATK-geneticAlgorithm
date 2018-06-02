@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
-      <module name="nai" target="1.5" />
+      <module name="nai" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
